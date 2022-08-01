@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/spinner/static/css/main.a60ad1e2.css",
+    "main.js": "/spinner/static/js/main.ab48f9d9.js",
+    "static/media/spinner-gold.png": "/spinner/static/media/spinner-gold.a10a9ca63c5e7488cbec.png",
+    "static/media/spinner-light.png": "/spinner/static/media/spinner-light.0a8991c402aa985e0cfc.png",
+    "static/media/spinner-black.png": "/spinner/static/media/spinner-black.aea01fd3ca6b67cb4b2e.png",
+    "static/media/spinner-samurai.png": "/spinner/static/media/spinner-samurai.8c2805624b02c3cc7953.png",
+    "static/media/spinner-red.png": "/spinner/static/media/spinner-red.c7da57e607aa54ab2eed.png",
+    "static/media/spinner-batman.png": "/spinner/static/media/spinner-batman.e9c993c7dd9dc5d3f7ec.png",
+    "static/media/logo.jpg": "/spinner/static/media/logo.4fe3aa23aaf9da218d18.jpg",
+    "index.html": "/spinner/index.html",
+    "main.a60ad1e2.css.map": "/spinner/static/css/main.a60ad1e2.css.map",
+    "main.ab48f9d9.js.map": "/spinner/static/js/main.ab48f9d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a60ad1e2.css",
+    "static/js/main.ab48f9d9.js"
+  ]
+}
